@@ -14,6 +14,7 @@ The official Tensorflow implementation of mSHINE: A Multiple-meta-paths Simultan
 ***
 ## Data Preparation
 
+The experimental datasets used in paper are available at https://drive.google.com/file/d/1g3Ln0fzCIqUO7A1GTZpKntXSUaiJdqgZ/view?usp=sharing
 To run mSHINE on your HIN whose name is **XXX**(we use the dataset cora as an example blow), two files should be provided: 
    1)**XXX.hin** (HIN dataset); 
    2)**XXX.config** (Meta-path info)
