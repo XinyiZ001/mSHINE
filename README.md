@@ -1,5 +1,5 @@
 # mSHINE
-The official Tensorflow implementation of [mSHINE: A Multiple-meta-paths Simultaneous Learning Framework for Heterogeneous Information Network Embedding](https://ieeexplore.ieee.org/document/9201301).
+The official Tensorflow implementation of mSHINE: A Multiple-meta-paths Simultaneous Learning Framework for Heterogeneous Information Network Embedding. [mSHINE](https://ieeexplore.ieee.org/document/9201301).
 
 *** 
 
