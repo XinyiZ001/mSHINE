@@ -94,6 +94,7 @@ To run mSHINE:
     python node_emb_classification.py --dimensions 128 --experi_dir experi_data --target_node_type p --graph_name cora
   ```
   during which, **XXX_TEST.label** is generated for storing classification related info.
+  
   (*NOTE*: the result reported in the paper is evaluated through SVM with kernel='rbf', gamma='scale').
 
 ***
